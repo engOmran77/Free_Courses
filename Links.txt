@@ -22,3 +22,9 @@ https://aischool.microsoft.com/en-us/home
 Machine Learning
 https://aws.amazon.com/training/learning-paths/machine-learning/
 
+
+
+
+PyTorch Scholarship Challenge from Facebook
+https://www.udacity.com/facebook-pytorch-scholarship
+
