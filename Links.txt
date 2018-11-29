@@ -1,3 +1,12 @@
 SalesForce
 https://trailhead.salesforce.com/en/career-path?sfdc_modal=trailhead-welcome#
 
+IBM
+https://www-03.ibm.com/services/learning/ites.wss/zz-en?pageType=page&c=N807151X80720G91
+
+Introduction to Machine Learning for Coders!
+https://course.fast.ai/ml
+
+AWS Training & Certification
+https://www.aws.training/Dashboard
+
