@@ -10,3 +10,11 @@ https://course.fast.ai/ml
 AWS Training & Certification
 https://www.aws.training/Dashboard
 
+LEARN WITH GOOGLE AI
+https://ai.google/education/
+
+Machine Learning Crash Course
+https://developers.google.com/machine-learning/crash-course/
+
+AI School - Microsoft
+https://aischool.microsoft.com/en-us/home
