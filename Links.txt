@@ -18,3 +18,7 @@ https://developers.google.com/machine-learning/crash-course/
 
 AI School - Microsoft
 https://aischool.microsoft.com/en-us/home
+
+Machine Learning
+https://aws.amazon.com/training/learning-paths/machine-learning/
+
